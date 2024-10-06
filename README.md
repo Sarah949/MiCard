@@ -3,7 +3,6 @@
 MiCard is a Flutter-based personal business card application that allows you to share your contact information in a digital format, ensuring you always have your business card with you, in the form of a mobile app!
 ## Preview
 ![Mi Card App Screenshot](images/screenapp.png)
-![Mi Card App Screenshot](images/screenapp.png)
 
 This project was created as part of **The Complete Flutter Development Bootcamp with Dart** on Udemy, and it helped me learn fundamental Flutter concepts like user interface design, widget creation, and styling.
 
