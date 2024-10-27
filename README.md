@@ -41,9 +41,10 @@ By building the Mi Card app, you will learn how to:
 - **Dart**: Programming language used in Flutter.
 - **Android Studio**: IDE used for development.
 - 
-  ## 📚 Resources
+## 📚 Resources
 - **Flutter Documentation**: [flutter.dev](https://flutter.dev)
-- **Course Reference**: *The Complete Flutter Development Bootcamp with Dart* by Angela Yu  
+- **Dart Language**: [dart.dev](https://dart.dev)
+- **Course Reference**: *The Complete Flutter Development Bootcamp with Dart* by Angela Yu   
 
 
 
